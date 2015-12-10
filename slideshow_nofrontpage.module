@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the slideshow_nofrontpage feature.
+ */
+
+include_once 'slideshow_nofrontpage.features.inc';
